@@ -1,4 +1,4 @@
-1. Base de datos .sql ---> plain 
+1. Base de datos .sql ---> plain (N/A: BASE DE DATOS NO SQL)
 2. Los repositorios backend y frontend (OK)
 3. Manual de usuario (OK)
 4. Manual Tecnico - en este debe incluir todas las programas/librerías/dependencias que usan los proyectos de git y el paso a paso de las instalación de cada una de ellas. (OK)
